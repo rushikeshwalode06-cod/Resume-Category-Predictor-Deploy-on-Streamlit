@@ -1,6 +1,6 @@
 # Resume-Category-Predictor-Deploy-on-Streamlit
 Developed a Resume Category Predictor using Bag of Words (BoW), TF-IDF, a Scikit-learn Pipeline, and Random Forest Classifier. The model takes resume text as input, processes it using NLP techniques, and accurately predicts the corresponding resume category. The application is deployed with Streamlit for an interactive user experience.
-# 📄 Resume Category Predictor
+
 📌 Overview
 
 Resume Category Predictor is a Machine Learning and NLP-based application that automatically predicts the category of a resume from its text content. The project uses Natural Language Processing (NLP) techniques to clean and transform resume text before classifying it using a Random Forest model.
