@@ -7,6 +7,8 @@ Resume Category Predictor is a Machine Learning and NLP-based application that a
 
 The application is built with Scikit-learn and deployed using Streamlit, providing a simple and interactive interface for users to upload or paste resume text and instantly receive the predicted category.
 
+![ml](https://github.com/rushikeshwalode06-cod/Resume-Category-Predictor-Deploy-on-Streamlit/blob/main/Model_Deploy.png?raw=true)
+
 ## 🚀 Features
 1. Predicts resume category from text
 2. NLP-based text preprocessing
@@ -59,4 +61,4 @@ The application is built with Scikit-learn and deployed using Streamlit, providi
 ## ✅ Conclusion
 The Resume Category Predictor demonstrates how Natural Language Processing (NLP) and Machine Learning can be combined to automate resume classification. By leveraging Bag of Words (BoW), TF-IDF, a Scikit-learn Pipeline, and a Random Forest Classifier, the system efficiently analyzes resume text and predicts the most relevant category. The Streamlit-based web application provides a user-friendly interface, making the model practical for real-world use. This project showcases the complete machine learning workflow, from text preprocessing and feature engineering to model deployment, and serves as a strong foundation for more advanced AI-powered recruitment solutions.
 
-![ml](https://github.com/rushikeshwalode06-cod/Resume-Category-Predictor-Deploy-on-Streamlit/blob/main/Model_Deploy.png?raw=true)
+
