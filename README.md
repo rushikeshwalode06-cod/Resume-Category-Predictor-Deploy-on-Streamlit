@@ -21,25 +21,25 @@ The application is built with Scikit-learn and deployed using Streamlit, providi
 9. Easy-to-use interface
 
 ## 🛠️ Technologies Used
-1. Python
-2. Pandas
-3. NumPy
-4. Scikit-learn
-5. Regular Expressions (Regex)
-6. Streamlit
+* 🐍 Python
+* 📊 Pandas
+* 🔢 NumPy
+* 🤖 Scikit-learn
+* 🔤 Regular Expressions (Regex)
+* 🚀 Streamlit
 
 ## 🧠 Machine Learning Workflow
-1. Load UpdatedResumeDataset 
-2. Data Cleaning
-3. Text Preprocessing
-4. Label Encoding
-5. Feature Extraction using Bag of Words (BoW)
-6. TF-IDF Transformation
-7. Build Scikit-learn Pipeline
-8. Train Random Forest Classifier
-9. Evaluate Model
-10. Save Model
-11. Deploy using Streamlit
+* 📂 Load UpdatedResumeDataset
+* 🧹 Data Cleaning
+* 📝 Text Preprocessing
+* 🏷️ Label Encoding
+* 📚 Feature Extraction using Bag of Words (BoW)
+* 📊 TF-IDF Transformation
+* 🔗 Build Scikit-learn Pipeline
+* 🌲 Train Random Forest Classifier
+* 📈 Evaluate Model
+* 💾 Save Model
+* 🚀 Deploy using Streamlit
 
 ![ml](https://github.com/rushikeshwalode06-cod/Resume-Category-Predictor-Deploy-on-Streamlit/blob/main/model_image.png?raw=true)
 
